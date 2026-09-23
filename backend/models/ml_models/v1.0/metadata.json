@@ -1,0 +1,18 @@
+{
+    "model_name": "Skill Vocabulary Embeddings",
+    "version": "v1.0",
+    "training_date": "2026-05-11T07:13:48.155296+00:00",
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "training_samples": 5656,
+    "test_samples": 0,
+    "git_commit": "4b90e37",
+    "extra": {
+        "embedding_model": "all-MiniLM-L6-v2",
+        "embedding_dim": 384,
+        "vocab_size": 5656,
+        "normalized": true,
+        "embeddings_file": "C:\\Users\\ak954\\Desktop\\AI-Skills-Gap-Analyzer\\backend\\models\\ml_training\\data\\skills_embeddings.npy",
+        "vocabulary_file": "C:\\Users\\ak954\\Desktop\\AI-Skills-Gap-Analyzer\\backend\\models\\ml_training\\data\\skill_vocabulary.json"
+    }
+}
