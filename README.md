@@ -603,4 +603,4 @@ Set all `.env` variables in Render's environment dashboard. Docker buildpack is 
 
 ---
 
-*Built by Ayush Kumar & Team — Powered by FastAPI, React, and Gemini AI*
+*Built by Avni Gupta & Team — Powered by FastAPI, React, and Gemini AI*

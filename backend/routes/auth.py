@@ -199,7 +199,7 @@ class VerifyOTPRequest(BaseModel):
             "example": {
                 "email":    "user@example.com",
                 "otp":      "123456",
-                "name":     "Ayush Kumar",
+                "name":     "Avni Gupta",
                 "password": "StrongPassword123",
             }
         }
